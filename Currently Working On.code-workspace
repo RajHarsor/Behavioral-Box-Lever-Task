@@ -5,10 +5,6 @@
 		},
 		{
 			"path": "../Neuromatch-Academy"
-		},
-		{
-			"name": "LeverTaskBehavioralBox",
-			"path": "../../PlatformIO/Projects/LeverTaskBehavioralBox"
 		}
 	],
 	"settings": {}
